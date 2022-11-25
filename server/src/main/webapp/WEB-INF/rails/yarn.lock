@@ -7403,10 +7403,10 @@ shelljs@>=0.8.5, shelljs@^0.6.0:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
-shellwords-ts@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/shellwords-ts/-/shellwords-ts-3.0.0.tgz#cd0679116dbe8581a8a0299b4f5f52a067ac79f2"
-  integrity sha512-4uZTHR2P7zKRZmSoOiUCFK1K+5LlDxay/RVNWDDImnGG1/4r/dZ2Y3rzpo871Iche913yOgYeKrrxl+3vengFw==
+shellwords-ts@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/shellwords-ts/-/shellwords-ts-3.0.1.tgz#7c2ed81ea6d0804705a95a5625682363972600e2"
+  integrity sha512-GabK4ApLMqHFRGlpgNqg8dmtHTnYHt0WUUJkIeMd3QaDrUUBEDXHSSNi3I0PzMimg8W+I0EN4TshQxsnHv1cwg==
 
 shellwords@^0.1.1:
   version "0.1.1"
