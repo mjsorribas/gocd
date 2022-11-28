@@ -84,7 +84,7 @@ final Map<String, String> libraries = [
   mailSmtp            : 'org.eclipse.angus:smtp:1.0.0',
   mockitoBom          : 'org.mockito:mockito-bom:4.7.0',
   mybatis             : 'org.mybatis:mybatis:3.5.10',
-  mybatisSpring       : 'org.mybatis:mybatis-spring:2.0.7',
+  mybatisSpring       : 'org.mybatis:mybatis-spring:3.0.0',
   mysql               : 'mysql:mysql-connector-java:8.0.30',
   nanohttpd           : 'org.nanohttpd:nanohttpd:2.3.1',
   objenesis           : 'org.objenesis:objenesis:3.3',
