@@ -5828,7 +5828,7 @@ __metadata:
     lodash-inflection: "npm:^1.5.0"
     lru-cache: "npm:^7.18.3"
     mini-css-extract-plugin: "npm:^1.6.2"
-    mithril: "npm:^2.3.7"
+    mithril: "npm:^2.3.8"
     mockdate: "npm:^3.0.5"
     moment: "npm:^2.30.1"
     moment-duration-format: "npm:^2.3.2"
@@ -7792,10 +7792,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mithril@npm:^2.3.7":
-  version: 2.3.7
-  resolution: "mithril@npm:2.3.7"
-  checksum: 10/cf70ac17863ae2224d18fd5dd0ad6b0bf9caccc5138298038a98df97afa6648d92204deac0e39a8bfda7dbb7cf10db935fce7cd0258ab4329cbbe8b817017b31
+"mithril@npm:^2.3.8":
+  version: 2.3.8
+  resolution: "mithril@npm:2.3.8"
+  checksum: 10/8be1e23fd269d45a50c64d374769ca214a15a2ecaebfb83adff2f45cc62baa32734a93127b371baea901b95c13b7ed7981244f93f4f855ff4336871eecd421a3
   languageName: node
   linkType: hard
 
